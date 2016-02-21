@@ -1,7 +1,7 @@
 name: PING Devices
 favicon: null
-layout_spectrum: 0.29303747112862766
-typography_spectrum: 0.628568610176444
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#85888d'
-    - '#3d3d3d'
-    - '#db361d'
+    - '#62737d'
+    - '#2d3538'
+    - '#f9fdfe'
+    - '#9ea5ad'
+    - '#bdc2c5'
   brandStrength: 0.5
   lightness: 1
   saturation: 1
