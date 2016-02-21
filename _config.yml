@@ -2,6 +2,7 @@ name: PING Devices
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 1
+title: 'PING Devices '
 cta:
   domain: null
   bucket: null
