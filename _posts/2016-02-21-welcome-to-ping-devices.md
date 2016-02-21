@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T04:25:59.971Z'
-dateModified: '2016-02-21T04:25:42.617Z'
+datePublished: '2016-02-21T04:33:43.170Z'
+dateModified: '2016-02-21T04:26:05.826Z'
+title: Welcome To PING Devices
+author: []
+sourcePath: _posts/2016-02-21-welcome-to-ping-devices.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Welcome To PING Devices
-author: []
-sourcePath: _posts/2016-02-21-welcome-to-ping-devices.md
-published: true
 url: welcome-to-ping-devices/index.html
 _type: Article
 
