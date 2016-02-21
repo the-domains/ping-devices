@@ -4,7 +4,7 @@
         <description><![CDATA[PING Devices]]></description>
         <link>https://thegrid.ai/ping-devices/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 04:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 04:37:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ping-devices/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Build]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/ping-devices/the-build/index.html</link>
             <guid isPermaLink="false">758b8f5f-5673-49d3-9aeb-9466d310d1a0</guid>
             <pubDate>Sun, 21 Feb 2016 04:36:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome To PING Devices]]></title>
-            <description><![CDATA[<article><h1>Welcome To PING Devices</h1><p>The future of college campus security </p></article>]]></description>
-            <link>https://thegrid.ai/ping-devices/welcome-to-ping-devices/index.html</link>
-            <guid isPermaLink="false">0e32b9cb-f7c3-4b8a-929e-1036764f626a</guid>
-            <pubDate>Sun, 21 Feb 2016 04:36:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
