@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Homepage '
-datePublished: '2016-02-21T04:37:29.023Z'
-dateModified: '2016-02-21T04:37:24.797Z'
+datePublished: '2016-02-21T04:39:17.141Z'
+dateModified: '2016-02-21T04:39:15.028Z'
 title: Welcome To PING Devices
 author: []
 sourcePath: _posts/2016-02-21-welcome-to-ping-devices.md
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: welcome-to-ping-devices/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Welcome To PING Devices
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e86c4014-ea68-4dc2-81fb-b846d76e2cdb.png)
 
-The future of college campus security
+## The future of college campus security
