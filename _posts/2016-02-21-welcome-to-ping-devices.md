@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T04:36:04.762Z'
-dateModified: '2016-02-21T04:33:51.257Z'
+datePublished: '2016-02-21T04:36:35.689Z'
+dateModified: '2016-02-21T04:36:11.889Z'
 title: Welcome To PING Devices
 author: []
 sourcePath: _posts/2016-02-21-welcome-to-ping-devices.md
