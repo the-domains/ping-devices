@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-21T04:36:35.689Z'
-dateModified: '2016-02-21T04:36:11.889Z'
+description: 'Homepage '
+datePublished: '2016-02-21T04:37:29.023Z'
+dateModified: '2016-02-21T04:37:24.797Z'
 title: Welcome To PING Devices
 author: []
 sourcePath: _posts/2016-02-21-welcome-to-ping-devices.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: welcome-to-ping-devices/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Welcome To PING Devices
